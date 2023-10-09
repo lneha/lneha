@@ -1,6 +1,6 @@
 Hey there!
 
-I'm Neha Lingamallu, a passionate learner currently pursuing a dual major in Data Science and Economics at Northeastern University. I've created this GitHub repository to share my journey as I dive deep into the world of Python programming and its applications in data science.
+I'm Neha Lingamallu, a passionate learner currently pursuing a combined major in Data Science and Economics at Northeastern University. I've created this GitHub repository to share my journey as I dive deep into the world of Python programming and its applications in data science.
 
 About Me
 🔬 I'm fascinated by the power of data to drive insights and inform decision-making.
